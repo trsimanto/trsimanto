@@ -1,5 +1,5 @@
 <h1 align="left">Hello I am Towhidur Rahman</h1>
-<h2 align="left">Senior Software Engineer [Android | iOS | Flutter]</br>simanto14feb@gmail.com</h2>
+<h2 align="left">Senior Software Engineer & QA [Android | iOS | Flutter]</br>simanto14feb@gmail.com</h2>
 
 <h1><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=trsimanto" target="_blank">Find me on linkedin</a></h1>
 
